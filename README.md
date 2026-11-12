@@ -1,0 +1,2 @@
+# Teste-de-conhecimento-Implementa-o-do-algoritmo-K-means-em-Python
+Trabalho acadêmico da disciplina de Matemática Computacional, com implementação do algoritmo K-means em Python para agrupamento e análise de dados. Utiliza NumPy, pandas e Matplotlib, explorando padronização z-score, cálculo de centroides, inércia (WCSS), coeficiente de silhueta e comparação de diferentes configurações de agrupamento.
